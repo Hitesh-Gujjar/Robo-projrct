@@ -1,0 +1,20 @@
+
+
+/* *{
+background-color: white;
+} */
+.card_background
+{
+ margin: 20px;
+ padding-left: 30px;
+ background-color: black; 
+ height: 500px;
+ width: 350px;
+ color: white; 
+ border-radius: 20px;
+ display: inline-block;
+}
+.doc_details h2{
+    margin:20px;
+
+}
